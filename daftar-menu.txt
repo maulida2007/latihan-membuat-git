@@ -3,10 +3,15 @@ Daftar menu harian :
 1. Nasi putih
 2. Sayur asem
 3. Ikan Asin
-4. Sambel Terasi
 
 - Selasa :
 1. Nasi goreng
 2. oreg tempe
 3. telor dadar
 4. gorengan
+
+-rabu :
+1. Nasi uduk
+2. Telor bumbu
+3. Teh manis
+
